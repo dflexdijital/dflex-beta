@@ -533,8 +533,8 @@ h6,
 }
 .portfolyo-img-wrapper img{
  
-    object-fit: cover;
-   
+ 
+   height: 250px;
     
 }
 
